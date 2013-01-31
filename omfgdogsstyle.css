@@ -2,3 +2,13 @@ body{
 	background-image: url(assets/omfgdogs.gif);
 	background-repeat:repeat;
 }
+
+#lowerleft{
+	float:right;
+	color: white;
+}
+
+a{
+	color:white;
+	font-style:bold;
+}
