@@ -3,12 +3,19 @@ body{
 	background-repeat:repeat;
 }
 
-#lowerleft{
-	float:right;
+
+p{
 	color: white;
+	text-decoration:none;
 }
 
 a{
-	color:white;
-	font-style:bold;
+	color: white;
+	font-weight: bold;
+}
+
+#lowerleft{
+	position:relative;
+	top: 620px;
+	left: 940px;
 }
